@@ -30,6 +30,11 @@ React와 Spring Boot를 활용하여 프론트엔드와 백엔드 간의 통합�
 
 ---
 
+## 📝 훈련 과정
+
+자세한 훈련 과정은 [훈련과정](./훈련과정.md)에서 확인할 수 있습니다.
+
+---
 ## 💼 Projects
 
 ### 1. [React-SpringBoot-Board-Incomplete](https://github.com/KimuJinsu/react-springboot-board-incomplete)
