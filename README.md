@@ -51,14 +51,14 @@
 - [Git Practice](https://github.com/KimuJinsu/git-practice): Git 명령어와 버전 관리 전략을 학습.
 - [Reflection Practice](https://github.com/KimuJinsu/reflection-practice): Java Reflection API를 활용하여 동적 프로그래밍을 실습.
 - [Spring AOP Practice](https://github.com/KimuJinsu/spring-aop-practice): AOP를 통해 로깅 및 트랜잭션 관리 기법을 익힘.
-- [Instrumentation API](https://github.com/KimuJinsu/instrumentation-api): JVM의 Instrumentation API 활용.
+- [Instrumentation API Practice](https://github.com/KimuJinsu/instrumentation-api): JVM의 Instrumentation API 활용.
 - [JPA Practice](https://github.com/KimuJinsu/jpa-practice): 엔티티 매핑 및 CRUD 작업 실습.
 - [Spring Framework Practice](https://github.com/KimuJinsu/spring-framework-practice): Spring의 기본 구조와 의존성 주입 학습.
 - [Design Pattern Practice](https://github.com/KimuJinsu/designpattern-practice): 디자인 패턴을 활용한 객체지향 설계 학습.
 - [Spring Boot Board Practice](https://github.com/KimuJinsu/springboot-board-practice): Spring Boot 기반 게시판 기능 구현.
-- [Spring Web MVC Test App](https://github.com/KimuJinsu/spring-web-mvc-test-app): MVC 구조 설계와 컨트롤러 테스트.
+- [Spring Web MVC Test App Practice](https://github.com/KimuJinsu/spring-web-mvc-test-app): MVC 구조 설계와 컨트롤러 테스트.
 - [Spring Security Practice](https://github.com/KimuJinsu/spring-security-practice): Spring Security를 활용한 인증 및 인가 학습.
-- [Spring Security JWT](https://github.com/KimuJinsu/spring-security-jwt): JWT 기반 보안 시스템 설계.
+- [Spring Security JWT Practice](https://github.com/KimuJinsu/spring-security-jwt): JWT 기반 보안 시스템 설계.
 
 ---
 
