@@ -64,11 +64,13 @@
 
 ## 🛠️ Technical Skills
 
-- **프로그래밍 언어**: Java, JavaScript
-- **웹 기술**: HTML, CSS, React, Spring Boot
-- **도구 및 플랫폼**: Docker, AWS (S3, EC2), Git, IntelliJ IDEA, STS
-- **데이터베이스**: MySQL, H2
-- **기타 기술**: RESTful API 설계, Gradle, Maven
+- **프로그래밍 언어**: Java, JavaScript  
+- **웹 기술**: HTML, CSS, React, Spring Framework (Spring Boot, Spring Security, Spring IoC, AOP, Reflection)  
+- **도구 및 플랫폼**: Docker, AWS (S3, EC2), Git, IntelliJ IDEA, STS, Tistory 블로그 활용  
+- **데이터베이스**: MySQL, H2, JPA  
+- **빌드 도구**: Gradle, Maven  
+- **네트워크 지식**: HTTP, Apache Tomcat, RESTful API 설계  
+- **기타 기술**: Reflection, Dynamic Proxy, TDD (Test-Driven Development), Toby’s Spring 학습 경험  
 
 ---
 
