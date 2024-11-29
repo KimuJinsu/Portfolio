@@ -14,7 +14,6 @@
 - 🌱 **학습 중인 기술**: Spring Boot, AWS, React, Docker
 - 💬 **관심사**: Web Development, Back-End Development, Cloud Computing
 - 🌐 **블로그**: [Tistory 블로그](https://myinfo503.tistory.com)
-- 📫 **이메일**: [jinsu8828@gmail.com](mailto:jinsu8828@gmail.com)
 
 ## 💡 개발 철학
 
