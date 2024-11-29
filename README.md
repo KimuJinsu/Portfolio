@@ -88,7 +88,44 @@ React와 Spring Boot를 활용하여 프론트엔드와 백엔드 간의 통합�
 - **기타 기술**: Reflection, Dynamic Proxy, TDD (Test-Driven Development), Toby’s Spring 학습 경험  
 
 ---
+## 🛠️ Technical Skills
 
+- **프로그래밍 언어**  
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+
+- **웹 기술**  
+  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+  ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white)
+
+- **도구 및 플랫폼**  
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat-square&logo=intellijidea&logoColor=white)
+  ![STS](https://img.shields.io/badge/STS-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+
+- **데이터베이스**  
+  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+  ![H2](https://img.shields.io/badge/H2-%23C80000.svg?style=flat-square)
+  ![JPA](https://img.shields.io/badge/JPA-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+
+- **빌드 도구**  
+  ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=flat-square&logo=gradle&logoColor=white)
+  ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat-square&logo=apachemaven&logoColor=white)
+
+- **네트워크 지식**  
+  ![HTTP](https://img.shields.io/badge/HTTP-%23FF9900.svg?style=flat-square)
+  ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=flat-square&logo=apachetomcat&logoColor=black)
+
+- **기타 기술**  
+  ![Reflection](https://img.shields.io/badge/Reflection-%236DB33F.svg?style=flat-square)
+  ![Dynamic Proxy](https://img.shields.io/badge/Dynamic%20Proxy-%236DB33F.svg?style=flat-square)
+  ![TDD](https://img.shields.io/badge/TDD-%232B2D3B.svg?style=flat-square)
+  ![Toby's Spring](https://img.shields.io/badge/Toby's%20Spring-%236DB33F.svg?style=flat-square)
 ## 📧 Contact Me
 
 - 📞 **Mobile**: 010-5651-8828
