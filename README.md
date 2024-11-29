@@ -64,11 +64,11 @@
 
 ## 🛠️ Technical Skills
 
-- **프로그래밍 언어**: Java, JavaScript, Python
+- **프로그래밍 언어**: Java, JavaScript
 - **웹 기술**: HTML, CSS, React, Spring Boot
 - **도구 및 플랫폼**: Docker, AWS (S3, EC2), Git, IntelliJ IDEA, STS
 - **데이터베이스**: MySQL, H2
-- **기타 기술**: RESTful API 설계, Gradle, CI/CD 파이프라인
+- **기타 기술**: RESTful API 설계, Gradle, Maven
 
 ---
 
