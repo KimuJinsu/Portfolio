@@ -79,17 +79,6 @@ React와 Spring Boot를 활용하여 프론트엔드와 백엔드 간의 통합�
 
 ## 🛠️ Technical Skills
 
-- **프로그래밍 언어**: Java, JavaScript  
-- **웹 기술**: HTML, CSS, React, Spring Framework (Spring Boot, Spring Security, Spring IoC, AOP, Reflection)  
-- **도구 및 플랫폼**: Docker, AWS (S3, EC2), Git, IntelliJ IDEA, STS, Tistory 블로그 활용  
-- **데이터베이스**: MySQL, H2, JPA  
-- **빌드 도구**: Gradle, Maven  
-- **네트워크 지식**: HTTP, Apache Tomcat, RESTful API 설계  
-- **기타 기술**: Reflection, Dynamic Proxy, TDD (Test-Driven Development), Toby’s Spring 학습 경험  
-
----
-## 🛠️ Technical Skills
-
 - **프로그래밍 언어**  
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
@@ -126,6 +115,9 @@ React와 Spring Boot를 활용하여 프론트엔드와 백엔드 간의 통합�
   ![Dynamic Proxy](https://img.shields.io/badge/Dynamic%20Proxy-%236DB33F.svg?style=flat-square)
   ![TDD](https://img.shields.io/badge/TDD-%232B2D3B.svg?style=flat-square)
   ![Toby's Spring](https://img.shields.io/badge/Toby's%20Spring-%236DB33F.svg?style=flat-square)
+
+---
+
 ## 📧 Contact Me
 
 - 📞 **Mobile**: 010-5651-8828
