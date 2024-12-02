@@ -74,6 +74,8 @@ React와 Spring Boot를 활용하여 프론트엔드와 백엔드 간의 통합�
 - [Spring Web MVC Test App Practice](https://github.com/KimuJinsu/spring-web-mvc-test-app): MVC 구조 설계와 컨트롤러 테스트.
 - [Spring Security Practice](https://github.com/KimuJinsu/spring-security-practice): Spring Security를 활용한 인증 및 인가 학습.
 - [Spring Security JWT Practice](https://github.com/KimuJinsu/spring-security-jwt): JWT 기반 보안 시스템 설계.
+- [Taco Cloud with Kafka and ActiveMQ](https://github.com/KimuJinsu/tacocloud-with-kafka-and-activemq): Spring Boot와 Kafka, ActiveMQ를 활용하여 메시징 기반의 웹 애플리케이션 구현.
+- [AWS S3 Demo](https://github.com/KimuJinsu/aws-s3-demo): Spring Boot와 AWS S3를 사용하여 파일 업로드, 이미지 관리, 파일 삭제 기능을 구현.
 
 ---
 
