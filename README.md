@@ -68,7 +68,7 @@ React와 Spring Boot를 활용하여 프론트엔드와 백엔드 간의 통합�
 - [Spring AOP Practice](https://github.com/KimuJinsu/spring-aop-practice): AOP를 통해 로깅 및 트랜잭션 관리 기법을 익힘.
 - [Instrumentation API Practice](https://github.com/KimuJinsu/instrumentation-api): JVM의 Instrumentation API 활용.
 - [JPA Practice](https://github.com/KimuJinsu/jpa-practice): 엔티티 매핑 및 CRUD 작업 실습.
-- [Spring Framework Practice](https://github.com/KimuJinsu/spring-framework-practice): Spring의 기본 구조와 의존성 주입 학습.
+- [Spring Framework Practice](https://github.com/KimuJinsu/spring-framework-practice): 토비의 스프링을 기반으로 Spring Framework 6 버전을 활용.
 - [Design Pattern Practice](https://github.com/KimuJinsu/designpattern-practice): 디자인 패턴을 활용한 객체지향 설계 학습.
 - [Spring Boot Board Practice](https://github.com/KimuJinsu/springboot-board-practice): Spring Boot 기반 게시판 기능 구현.
 - [Spring Web MVC Test App Practice](https://github.com/KimuJinsu/spring-web-mvc-test-app): MVC 구조 설계와 컨트롤러 테스트.
