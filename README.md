@@ -39,7 +39,7 @@ React와 Spring Boot를 활용하여 프론트엔드와 백엔드 간의 통합�
 ---
 ## 💼 Projects
 
-### 1. [React-SpringBoot-Board-Incomplete](https://github.com/KimuJinsu/react-springboot-board-incomplete)
+### 1. [React-SpringBoot-Board](https://github.com/KimuJinsu/react-springboot-board)
 - **설명**: React와 Spring Boot를 활용한 게시판 애플리케이션입니다.  
   사용자 계정 관리, 게시글 작성/관리, 파일 업로드, 태그 기반 검색 및 AWS S3 파일 저장소 연동을 포함합니다.
 - **기술 스택**: Spring Boot, React, JPA, AWS S3, SMTP, Gradle
